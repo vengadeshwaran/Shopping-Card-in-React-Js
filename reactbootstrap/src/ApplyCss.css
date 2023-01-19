@@ -1,0 +1,63 @@
+.rowCol{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.pTag{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline;
+}
+.buttonBootstrap{
+    padding-left: 10px ;
+    padding-right: 10px;
+}
+.slideBar{
+    width: 100%;
+    background-color: black;
+    height: auto;
+}
+section{
+    margin: auto;
+    padding-bottom: 4%;
+
+}
+.Shop{
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 4%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.Tem{
+    color: rgb(100, 100, 100);
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding: 0%;
+    margin: 0%;
+}
+.gridComp{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.pos{
+    position: absolute;
+    top: 10px;
+    right:8px;
+    background-color: black;
+    color: white;
+    padding: 0 10px 0 10px ;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.star{
+    color: #ffd457;
+}
+.footer{
+    color: white;
+}
